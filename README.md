@@ -15,5 +15,5 @@
 <li>Run localhost/poll</li>
 </ul>
 
-<h3>In order to run this project sucessfully restoring database file is must.</h3>
+<h3>In order to run this project sucessfully database restoration is must.</h3>
 
