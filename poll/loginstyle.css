@@ -1,0 +1,122 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300|Lato);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700,500);
+body{
+background-color: rgba(129,185,255,.8);
+
+}
+.ll{
+display: flex;
+flex-wrap:wrap;
+max-width: 100%;
+justify-content:center;
+color: rgb(36,49,60);
+
+}
+.upform{
+	display: flex;
+	flex-direction: column;
+
+}
+.txtarea{
+	margin-top: 1em;
+	margin-left: 5em;
+}
+.upbtn{
+	margin-left: 3.3em;
+	margin-top: .8em;
+}
+.welcome{
+	text-align: center;
+	font-family: roboto;
+	font-weight: 700;
+	color: #1eacc7;
+
+}
+.btnform{
+width: 10%;
+border: none;
+background-color: #1eacc7;
+color: white;
+padding: 0.5rem .5rem;
+font-size: 1.3rem;
+
+}
+ .ll .profile{
+flex:0 0 20%;
+margin: 1rem;
+
+	
+}
+.profile h3{
+	text-align: center;
+}
+
+.ll{
+	margin: 5rem;
+	margin-top: 1rem;
+		/*background-color: rgba(36,49,60,.1);*/
+		border-radius: 3%;
+}
+img{
+	width: 100%;
+	height: auto;
+	max-height: 200px;
+}
+.imghead{
+	margin: auto;
+
+
+}
+.imghead h3{
+	text-align: center;
+	margin-bottom: 0;
+
+}
+.msg{
+	display: flex;
+	flex-direction:column;
+	
+/*	color: #07080A;*/
+	color: rgb(36,49,60);
+	margin: 7em;
+
+}
+.msghead{
+	text-align: center;
+	color: rgb(36,49,60);
+}
+.eachmsg{
+
+}
+h1{
+	font-family: Roboto;
+font-weight: 700;
+color: rgb(36,49,60);
+}
+h3{
+font-family: Roboto;
+font-weight: 400;
+color: rgb(36,49,60);
+}
+h2{
+	font-family: Roboto;
+font-weight: 700;
+color: rgb(36,49,60);
+}
+p{
+	font-family: Roboto;
+	font-weight: 400;
+}
+.pl{
+	font-family: Roboto;
+	font-weight: 400;
+
+}
+
+.pollsubmit{
+	margin-left: 2em;
+
+}
+.wholepoll{
+	margin-top: 4em;
+}
